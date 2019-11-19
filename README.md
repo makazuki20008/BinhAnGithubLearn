@@ -21,3 +21,20 @@ của git
 - Để cập nhật project lên trên github.com ta phải git add file đã thay đổi vào .git và git push 
 lên online
 - Xóa project trong github ta vào setting vào mục Danger zone rồi xóa đi
+
+Các câu lệnh git:
+git remote add origin https://github.com/user-name/repository-name
+git clone
+git branch ---
+git checkout ---
+git add *
+git commit
+git commit -m "Add new file a KhoaPham.txt"
+git commit -a -m "Adding ddress"
+git merch ---
+git log --
+git revert --
+git status
+git push
+git diff
+git pull --
