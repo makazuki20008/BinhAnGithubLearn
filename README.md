@@ -23,21 +23,21 @@ lên online
 - Xóa project trong github ta vào setting vào mục Danger zone rồi xóa đi
 
 
-Các câu lệnh git:
-git init (tạo ra repository ở local (xuất hiện .git))
-git remote add origin https://github.com/user-name/repository-name (kết nối thư mục local với online)
-git clone (tải thư mục trên online xuống local)
-git branch --- (tạo branch mới)
-git checkout --- (đưa đến branch nào đó)
-git add * (thêm thư mục vào repository ở local)
-git commit (thêm thay đổi vào repository ở local)
-git commit -m "Add new file a KhoaPham.txt" (thêm thay đổi kèm với mô tả vào repository ở local)
-git commit -a -m "Adding ddress"
-git merch --- (hợp nhất các branch lại với nhau)
-git log -- (hiện lịch sử commit trong repository)
-git revert -- (trả thư mục lại như lần commit đã làm mà ta thấy id ở log)
-git status (tình trạng các thư mục đã vào repository hay chưa)
-git push (đưa repository ở local lên online)
-git diff (thông tin commit)
-git show (thông tin commit, cây thư mục, blobs)
-git pull -- (cập nhật hết repository online xuống local)
+Các câu lệnh git:  
+git init (tạo ra repository ở local (xuất hiện .git))  
+git remote add origin https://github.com/user-name/repository-name (kết nối thư mục local với online)  
+git clone (tải thư mục trên online xuống local)  
+git branch --- (tạo branch mới)  
+git checkout --- (đưa đến branch nào đó)  
+git add * (thêm thư mục vào repository ở local)  
+git commit (thêm thay đổi vào repository ở local)  
+git commit -m "Add new file a KhoaPham.txt" (thêm thay đổi kèm với mô tả vào repository ở local)  
+git commit -a -m "Adding ddress"  
+git merch --- (hợp nhất các branch lại với nhau)  
+git log -- (hiện lịch sử commit trong repository)  
+git revert -- (trả thư mục lại như lần commit đã làm mà ta thấy id ở log)  
+git status (tình trạng các thư mục đã vào repository hay chưa)  
+git push (đưa repository ở local lên online)  
+git diff (thông tin commit)  
+git show (thông tin commit, cây thư mục, blobs)  
+git pull -- (cập nhật hết repository online xuống local)  
